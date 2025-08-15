@@ -25,29 +25,3 @@ Sou **Analista de Sistemas** apaixonado por tecnologia e inovação, com foco em
 
 ---
 
-# 👋 Hi, I’m Letancio Marinho 🧑‍💻
-
-🚀 **Web Developer & Project Manager**  
-I’m a **Systems Analyst** passionate about technology and innovation, specializing in **PHP** and **Laravel**. I have solid experience in **Linux server creation and management**, **microservices administration**, and extensive knowledge in **Federal Government systems integrations** and **REST APIs**.
-
-💡 Besides backend development, I also work as a **Designer**, **Social Media Manager**, and **Consultant**, delivering complete solutions for companies and projects.
-
----
-
-## 🛠️ **Technologies & Skills**
-- **Languages:** PHP (Native & Laravel), JavaScript, HTML, CSS
-- **Frameworks:** Laravel, Bootstrap
-- **Servers:** Linux, Apache, Nginx
-- **APIs:** REST, Government Systems Integrations
-- **Databases:** MySQL, MariaDB
-- **Others:** Git, Composer, Project Management, UI/UX, Social Media
-
----
-
-## 📫 **Contact**
-- Email: **comercial@letancio.com.br**
-- GitHub: [@LetancioMarinho](https://github.com/LetancioMarinho)
-
-💬 Always open to collaborations and new challenges!
-
-
