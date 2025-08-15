@@ -9,7 +9,7 @@ Sou **Analista de Sistemas** apaixonado por tecnologia e inovação, com foco em
 
 ## 🛠️ **Tecnologias e Habilidades**
 - **Linguagens:** PHP (Nativo e Laravel), JavaScript, HTML, CSS
-- **Frameworks:** Laravel, Bootstrap
+- **Frameworks:** Laravel, Bootstrap, Twig
 - **Servidores:** Linux, Apache, Nginx
 - **APIs:** REST, Integrações Governamentais
 - **Banco de Dados:** MySQL, MariaDB
