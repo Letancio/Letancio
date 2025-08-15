@@ -45,7 +45,7 @@ I’m a **Systems Analyst** passionate about technology and innovation, speciali
 ---
 
 ## 📫 **Contact**
-- Email: **letanciomarinho@gmail.com**
+- Email: **comercial@letancio.com.br**
 - GitHub: [@LetancioMarinho](https://github.com/LetancioMarinho)
 
 💬 Always open to collaborations and new challenges!
